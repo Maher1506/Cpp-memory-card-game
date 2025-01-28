@@ -1,0 +1,3 @@
+D:/Programming/CPP/MemoryCardGame/cmake-build-debug/CMakeFiles/MemoryCardGame.dir
+D:/Programming/CPP/MemoryCardGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/CPP/MemoryCardGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
